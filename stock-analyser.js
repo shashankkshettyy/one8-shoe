@@ -13,7 +13,7 @@ const PRODUCTS = [
     }
 ];
 const TELEGRAM_BOT_TOKEN = '8312085477:AAF8VOWEnffFZVqYj5qBDZ1i9vP4kR-mdJM';
-const TELEGRAM_CHAT_ID = ''; // Leave empty for now
+const TELEGRAM_CHAT_ID = '5181642224'; // Leave empty for now
 async function sendTelegramMessage(message) {
     if (!TELEGRAM_CHAT_ID) {
         console.log('Telegram Chat ID not configured.');
