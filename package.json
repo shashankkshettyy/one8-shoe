@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "node-fetch": "^3.3.2"
+  "name": "one8-stock-monitor",
+  "version": "1.0.0",
+  "main": "stock-analyser.js",
+  "scripts": {
+    "start": "node stock-analyser.js"
   }
 }
