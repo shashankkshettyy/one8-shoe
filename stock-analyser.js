@@ -1,9 +1,9 @@
 const PRODUCTS = [
     {
         name: 'Seam XVIII Signature',
-        url: 'https://one8.com/products/seam-xviii-signature-mens-red.js',
-        page: 'https://one8.com/products/seam-xviii-signature-mens-red',
-        variantId: 57675898847392 // UK 11
+        url: 'https://one8.com/products/seam-xviii-signature-mens-white.js',
+        page: 'https://one8.com/products/seam-xviii-signature-mens-white',
+        variantId: 57738053583008 // UK 11
     },
     {
         name: 'Boom Rush Grey Blue',
