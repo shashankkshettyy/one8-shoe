@@ -4,12 +4,6 @@ const PRODUCTS = [
         url: 'https://one8.com/products/seam-xviii-signature-mens-white.js',
         page: 'https://one8.com/products/seam-xviii-signature-mens-white',
         variantId: 57738053583008 // UK 11
-    },
-    {
-        name: 'Boom Rush Grey Blue',
-        url: 'https://one8.com/products/boom-rush-men-classic-grey-sonic-blue.js',
-        page: 'https://one8.com/products/boom-rush-men-classic-grey-sonic-blue',
-        variantId: 57814810099872 // UK 11
     }
 ];
 const TELEGRAM_BOT_TOKEN = '8312085477:AAF8VOWEnffFZVqYj5qBDZ1i9vP4kR-mdJM';
